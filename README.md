@@ -16,6 +16,17 @@
         <li>Spring</li>
       </ul>
     </li>
+    <li>Front
+      <ul>
+        <li>HTML, CSS</li>
+        <li>Accessibility, Responsiveness</li>
+      </ul>
+    </li>
+    <li>Git
+      <ul>
+        <li>Github, Gitlab, Github Actions</li>
+      </ul>
+    </li>
   </ul>
   </td>
   <td>
@@ -26,26 +37,19 @@
       <li>Redux</li>
     </ul></li>
     </ul>
+    <li>Go</li>
+    <li>DevOps
+    <ul>
+      <li>Docker</li>
+      <li>AWS</li>
+      <li>GCP</li>
+      <li>Prefect</li>
+    </ul>
+    </li>
   </td>
 </tr>
 </table>
-* Python
-  * FastAPI 
-* JavaScript
-  * Node, React, Redux
-* Java
-  * Spring
-* Go
-* Front
-  * HTML, CSS
-  * Accessibility, Responsiveness
-* DevOps
-  * Docker
-  * AWS
-  * GCP
-  * Prefect
-* Git
-  * Github, Github Actions
+
 * Databases
   * NoSQL
     * MongoDB
