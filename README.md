@@ -1,11 +1,19 @@
-* Java
-  * Spring
+* Python
+  * FastAPI 
 * JavaScript
   * Node, React, Redux
+* Go
+* Databases
+  * MongoDB
+* Java
+  * Spring
 * Front
   * HTML, CSS
   * Accessibility, Responsiveness
-* Cloud
+* DevOps
+  * Docker
   * AWS
   * GCP
   * Prefect
+* Git
+  * Github, Github Actions
