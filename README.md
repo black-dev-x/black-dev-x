@@ -2,11 +2,9 @@
   * FastAPI 
 * JavaScript
   * Node, React, Redux
-* Go
-* Databases
-  * MongoDB
 * Java
   * Spring
+* Go
 * Front
   * HTML, CSS
   * Accessibility, Responsiveness
@@ -17,3 +15,16 @@
   * Prefect
 * Git
   * Github, Github Actions
+* Databases
+  * NoSQL
+    * MongoDB
+    * Redis
+  * Relational Databases
+    * PostgreSQL
+    * MySQL
+* Software Architecture
+  * Functional
+  * Object Oriented
+* Others
+  * Unreal Engine
+  * 
