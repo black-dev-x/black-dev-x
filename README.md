@@ -7,7 +7,7 @@
   <td>
   <ul>
     <li>
-      <span>Python</span> 
+      Python 
       <ul>
         <li>FastAPI</li>
       </ul>
