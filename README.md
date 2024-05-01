@@ -1,6 +1,7 @@
 <table>
 <tr>
-  <th colspan="2"><img width="882" height="1"></th>
+  <th><img width="441" height="1"></th>
+  <th><img width="441" height="1"></th>
 </tr>
 <tr>
   <td>
