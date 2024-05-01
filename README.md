@@ -1,3 +1,26 @@
+<table>
+<tr>
+  <td>
+  <ul>
+    <li>
+      <span>Python</span> 
+      <ul>
+        <li>FastAPI</li>
+      </ul>
+    </li>
+  </ul>
+  </td>
+  <td>
+    <ul>
+    <li>JavaScript <ul>
+      <li>Node</li>
+      <li>React</li>
+      <li>Redux</li>
+    </ul></li>
+    </ul>
+  </td>
+</tr>
+</table>
 * Python
   * FastAPI 
 * JavaScript
@@ -27,4 +50,4 @@
   * Object Oriented
 * Others
   * Unreal Engine
-  * 
+  *
