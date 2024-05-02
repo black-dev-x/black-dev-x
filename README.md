@@ -28,7 +28,7 @@
       <li>
         Others
         <ul>
-          <li>Functional and Objecte-oriented Programming</li>
+          <li>Functional and Object-oriented Programming</li>
           <li>Software Architecture</li>
           <li>Accessibility</li>
         </ul>
