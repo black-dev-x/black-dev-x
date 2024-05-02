@@ -11,7 +11,6 @@
           <ul>
             <li>Fast API</li>
           </ul>
-        </ul>
       </li>
       <li>
         Java
