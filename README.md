@@ -34,7 +34,7 @@
         </ul>
       </li>
     </td>
-    <td vertical-align="top">
+    <td style="vertical-align: top;">
       <ul>
         <li>HTML</li>
         <li>CSS</li>
