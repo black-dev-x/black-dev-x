@@ -4,7 +4,7 @@
     <th><img width="441" height="1" /></th>
   </tr>
   <tr>
-    <td>
+    <td vertical-align="top">
       <ul>
         <li>
           Python
@@ -34,7 +34,7 @@
         </ul>
       </li>
     </td>
-    <td>
+    <td vertical-align="top">
       <ul>
         <li>HTML</li>
         <li>CSS</li>
