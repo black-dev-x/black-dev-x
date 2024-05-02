@@ -4,7 +4,7 @@
     <th><img width="441" height="1" /></th>
   </tr>
   <tr>
-    <td vertical-align="top">
+    <td>
       <ul>
         <li>
           Python
@@ -53,6 +53,7 @@
             <li>Gitlab</li>
           </ul>
         </li>
+        <li>Unity</li>
       </ul>
     </td>
   </tr>
