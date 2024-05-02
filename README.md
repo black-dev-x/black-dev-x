@@ -28,14 +28,8 @@
     </td>
     <td>
       <ul>
-        <li>
-          Front
-          <ul>
-            <li>HTML, CSS</li>
-            <li>Accessibility</li>
-          </ul> 
-        </li>
-        <li>Go</li>
+        <li>HTML</li>
+        <li>CSS</li>
         <li>
           DevOps
           <ul>
