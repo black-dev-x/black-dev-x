@@ -61,6 +61,5 @@
 <p><a href="https://cursos.alura.com.br/user/thauroo" target="_blank">Alura</a></p>
 <p><a href="https://app.pluralsight.com/profile/black-devx" target="_blank">Pluralsight</a></p>
 <p><a href="https://www.codewars.com/users/Devxgen" target="_blank">Codewars</a></p>
-<p><a href="https://cursos.alura.com.br/user/thauroo" target="_blank">Alura</a></p>
 <p><a href="https://www.udemy.com/user/thiago-rodrigues-52/?key=subscribed_courses&subscribed_courses=1&wishlisted_courses=1" target="_blank">Udemy</a></p>
 <p><a href="https://www.linkedin.com/in/thiago-dx/" target="_blank">LinkedIn</a></p>
