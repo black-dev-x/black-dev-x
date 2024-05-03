@@ -23,6 +23,7 @@
         <ul>
           <li>Node</li>
           <li>React, Redux</li>
+          <li>Vue</li>
         </ul>
       </li>
       <li>
