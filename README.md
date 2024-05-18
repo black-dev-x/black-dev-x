@@ -1,5 +1,5 @@
 | Java | Javascript |
-|----------|----------|----------|----------|----------|----------|----------|
+|----------|----------|
 |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="55" height="55"/>
 |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" height="55"/>
 |
