@@ -5,7 +5,7 @@
 
 |AWS|GCP|Prefect|Firebase|
 |-|-|-|-|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="55" height="55" />|<img src="https://raw.githubusercontent.com/PrefectHQ/prefect/main/ui/src/assets/logos/prefect-logo-mark-gradient.svg" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" width="55" height="55" />|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="55" height="55" />|<img src="https://raw.githubusercontent.com/PrefectHQ/prefect/main/ui/src/assets/logos/prefect-logo-mark-gradient.svg" width="55" height="55"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="55" height="55" />|
           
 |Spring|FastApi|
 |-|-|
