@@ -27,7 +27,7 @@
           
 |Git|Github|Gitlab|
 |-|-|-|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="80" height="80"/>|<div style="background-color: white;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="80" height="80"/></div>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="80" height="80"/>|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="80" height="80"/>|<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="80" height="80"/>|
 
 |Raylib|Biopython|
 |-|-|
