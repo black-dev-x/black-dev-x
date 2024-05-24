@@ -32,7 +32,10 @@
 |Raylib|Biopython|
 |-|-|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" width="80" height="80" />|<img src="https://biopython.org/assets/images/biopython_logo_white.png" width="80" height="80"/> 
-          
+
+|Anaconda|
+|-|   
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="80" height="80"/>|
                   
 ### Some Links
 - [Alura](https://cursos.alura.com.br/user/thauroo)
