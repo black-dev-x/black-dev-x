@@ -10,7 +10,7 @@
           
 |Spring|FastApi|express|
 |-|-|-|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="80" height="80"/>
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" width="80" height="80"/>|<img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" width="80" height="80"/>
           
 |Firebase|MongoDB|PostgreSQL|
 |-|-|-|
