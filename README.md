@@ -29,9 +29,9 @@
 |-|-|-|-|
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="80" height="80"/>|<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" width="80" height="80"/>|
 
-|Raylib|Biopython|
-|-|-|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" width="80" height="80" />|<img src="https://biopython.org/assets/images/biopython_logo_white.png" width="80" height="80"/> 
+|Raylib|Biopython|Streamlit|
+|-|-|-|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" width="80" height="80" />|<img src="https://biopython.org/assets/images/biopython_logo_white.png" width="80" height="80"/> |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="80" height="80"/>|
 
 |Anaconda|
 |-|   
