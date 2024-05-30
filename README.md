@@ -34,9 +34,9 @@
 |-|-|-|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" width="80" height="80" />|<img src="https://biopython.org/assets/images/biopython_logo_white.png" width="80" height="80"/> |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="80" height="80"/>|
 
-|Anaconda|Eclipse|Chrome|Insomnia|Jupyter|
-|-|-|-|-|-|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="80" height="80" />|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="80" height="80"/>|
+|VSCode|Anaconda|Eclipse|Chrome|Insomnia|Jupyter|
+|-|-|-|-|-|-|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="80" height="80" />|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="80" height="80"/>|
 
 |Jest|JUnit|
 |-|-|
