@@ -1,5 +1,5 @@
 
-| <span style="font-size:0.5em;">Java</span> | Javascript |TypeScript| Python | C++ | Processing | GoLang|
+| <span style="font-size:5px;">Java</span> | Javascript |TypeScript| Python | C++ | Processing | GoLang|
 |-|-|-|-|-|-|-|
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="80" height="80"/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" height="80"/> |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="80" height="80"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80" height="80"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="80" height="80" /> |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original-wordmark.svg" width="80" height="80" /> |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="80" height="80"/>|
           
