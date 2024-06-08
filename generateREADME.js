@@ -9,6 +9,14 @@ const g = (name, link, title) => {
   cards.push(card)
 }
 
+const h3 = (text) => {
+  output += `### ${text}\n`
+}
+
+const link = (text, link) => {
+  output += `- [${text}](${link})\n`
+}
+
 const makeTable = () => {
   const titles = cards.reduce((acc, card) => acc + `${card.name}|`, "|")
   const spaces = cards.reduce((acc, card) => acc + `-|`, "|")
@@ -83,5 +91,12 @@ makeTable()
 g("Jest", "")
 g("Junit", "")
 makeTable()
+
+h3("Some Links")
+link("Alura", "https://cursos.alura.com.br/user/thauroo")
+link("Pluralsight", "https://app.pluralsight.com/profile/black-devx")
+link("Codewars", "https://www.codewars.com/users/Devxgen")
+link("Udemy", "https://www.udemy.com/user/thiago-rodrigues-52/")
+link("LinkedIn", "https://www.linkedin.com/in/thiago-dx/")
 
 console.log(output)
