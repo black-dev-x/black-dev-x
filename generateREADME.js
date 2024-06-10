@@ -30,7 +30,7 @@ const makeTable = () => {
 g("Java", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg")
 g("Javascript", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg")
 g("TypeScript", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg")
-g("Python", "ttps://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg")
+g("Python", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg")
 g("C++", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg")
 g("Processing", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original-wordmark.svg")
 g("GoLang", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg")
