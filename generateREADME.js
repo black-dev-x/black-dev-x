@@ -24,7 +24,7 @@ const makeTable = () => {
   const spaces = cards.reduce((acc, card) => acc + `-|`, "|")
   const links = cards.reduce((acc, card) => acc + `<img href="${card.link}" title="${card.title ?  card.title : card.name}" width="80" height="80"/>|`, "|")
   cards = []
-  output += `${titles}\n${spaces}\n${links}\n`
+  output += `${titles}\n${spaces}\n${links}\n\n`
 }
 
 g("Java", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg")
