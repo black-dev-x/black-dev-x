@@ -20,7 +20,7 @@ const link = (text, link) => {
 }
 
 const makeTable = () => {
-  const titles = cards.reduce((acc, card) => acc + ` ###### ${card.name} |`, "|")
+  const titles = cards.reduce((acc, card) => acc + `${card.name}|`, "|")
   const spaces = cards.reduce((acc, _) => acc + `-|`, "|")
   const links = cards.reduce((acc, card) => acc + `<img src="${card.link}" title="${card.title ?  card.title : card.name}" width="80" height="80"/>|`, "|")
   cards = []
