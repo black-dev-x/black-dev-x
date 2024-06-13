@@ -27,6 +27,7 @@ const makeTable = () => {
   output += `${titles}\n${spaces}\n${links}\n\n`
 }
 
+h3("Languages")
 g("Java", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg")
 g("Javascript", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg")
 g("TypeScript", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg")
@@ -36,6 +37,7 @@ g("Processing", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proce
 g("GoLang", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg")
 makeTable()
 
+h3("DevOps")
 g("AWS", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg")
 g("GCP", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg")
 g("Docker", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg")
@@ -43,18 +45,21 @@ g("Prefect", "https://raw.githubusercontent.com/PrefectHQ/prefect/main/ui/src/as
 g(":octocat: Actions", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg", "Github Actions")
 makeTable()
 
+h3("Backend")
 g("Node", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg")
 g("Spring", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg")
 g("FastApi", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg")
 g("Express", "https://icon.icepanel.io/Technology/png-shadow-512/Express.png")
 makeTable()
 
+h3("Databases")
 g("Firebase", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg")
 g("MongoDB", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg")
 g("PostgreSQL", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg")
 g("MySQL", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg")
 makeTable()
 
+h3("Frontend")
 g("React", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg")
 g("Angular", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg")
 g("Vue", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg")
@@ -71,17 +76,14 @@ g("JQuery", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jq
 g("Figma", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg")
 makeTable()
 
+h3("Versioning")
 g("Git", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg")
 g("Github", "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png")
 g("Gitlab", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg")
 g("Bitbucket", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg")
 makeTable()
 
-g("Raylib", "https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png")
-g("Biopython", "https://biopython.org/assets/images/biopython_logo_white.png")
-g("Streamlit", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg")
-makeTable()
-
+h3("Tools")
 g("VSCode", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg")
 g("Anaconda", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg")
 g("Eclipse", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg")
@@ -90,8 +92,16 @@ g("Insomnia", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomni
 g("Jupyter", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg")
 makeTable()
 
+h3("Testing")
 g("Jest", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg")
 g("Junit", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg")
+makeTable()
+
+
+h3("Others")
+g("Raylib", "https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png")
+g("Biopython", "https://biopython.org/assets/images/biopython_logo_white.png")
+g("Streamlit", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg")
 makeTable()
 
 h3("Some Links")
