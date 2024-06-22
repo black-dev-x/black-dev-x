@@ -43,9 +43,9 @@
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" title="Jest" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" title="Junit" width="80" height="80"/>|
 
 ### Others
-|Raylib|Biopython|Streamlit|
-|-|-|-|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" title="Raylib" width="80" height="80"/>|<img src="https://biopython.org/assets/images/biopython_logo_white.png" title="Biopython" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" title="Streamlit" width="80" height="80"/>|
+|Raylib|Biopython|Streamlit|Kafka|
+|-|-|-|-|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" title="Raylib" width="80" height="80"/>|<img src="https://biopython.org/assets/images/biopython_logo_white.png" title="Biopython" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" title="Streamlit" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" title="Kafka" width="80" height="80"/>|
 
 ### Some Links
 - [Alura](https://cursos.alura.com.br/user/thauroo)
