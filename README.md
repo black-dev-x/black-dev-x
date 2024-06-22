@@ -45,7 +45,7 @@
 ### Others
 |Raylib|Biopython|Streamlit|Kafka|
 |-|-|-|-|
-|<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" title="Raylib" width="80" height="80"/>|<img src="https://biopython.org/assets/images/biopython_logo_white.png" title="Biopython" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" title="Streamlit" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" title="Kafka" width="80" height="80"/>|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" title="Raylib" width="80" height="80"/>|<img src="https://biopython.org/assets/images/biopython_logo_white.png" title="Biopython" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" title="Streamlit" width="80" height="80"/>|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVa3Oi4m4gM8IrnBU-Ct0PwsXgCRe6cfLMhiLytNWjiL6B918z7OHnGrN3nshGU18WV3s&usqp=CAU" title="Kafka" width="80" height="80"/>|
 
 ### Some Links
 - [Alura](https://cursos.alura.com.br/user/thauroo)
