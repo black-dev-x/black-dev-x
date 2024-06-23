@@ -65,6 +65,8 @@ g("Angular", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/
 g("Vue", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg")
 g("Axios", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg")
 g("Electron", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg")
+g("Vuex", "https://cdn.worldvectorlogo.com/logos/vuex-1.svg")
+g("Redux", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg")
 makeTable()
 
 g("HTML", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg")
