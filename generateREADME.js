@@ -78,6 +78,9 @@ g("JQuery", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jq
 g("Figma", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg")
 makeTable()
 
+g("Router", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg")
+makeTable()
+
 h3("Versioning")
 g("Git", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg")
 g("Github", "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png")

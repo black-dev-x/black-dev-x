@@ -27,6 +27,10 @@
 |-|-|-|-|-|-|-|
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" title="Less" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" title="Sass" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" title="JQuery" width="80" height="80"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="80" height="80"/>|
 
+|Router|
+|-|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" title="Router" width="80" height="80"/>|
+
 ### Versioning
 |Git|Github|Gitlab|Bitbucket|
 |-|-|-|-|
