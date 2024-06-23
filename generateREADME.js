@@ -67,6 +67,7 @@ g("Axios", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axio
 g("Electron", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg")
 g("Vuex", "https://cdn.worldvectorlogo.com/logos/vuex-1.svg")
 g("Redux", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg")
+g("Router", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg")
 makeTable()
 
 g("HTML", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg")
@@ -76,9 +77,6 @@ g("Sass", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-o
 g("Bootstrap", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg")
 g("JQuery", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg")
 g("Figma", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg")
-makeTable()
-
-g("Router", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg")
 makeTable()
 
 h3("Versioning")
