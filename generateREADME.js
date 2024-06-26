@@ -108,6 +108,7 @@ g("Biopython", "https://biopython.org/assets/images/biopython_logo_white.png")
 g("Streamlit", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg")
 g("Yarn", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg")
 g("Webpack", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg")
+g("Stripe", "https://cdn.iconscout.com/icon/free/png-512/free-stripe-2-498440.png?f=webp&w=75")
 makeTable()
 
 h3("Some Links")

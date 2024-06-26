@@ -43,9 +43,9 @@
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" title="Jest" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" title="Junit" width="75" height="75"/>|
 
 ### Others
-|Kafka|Raylib|Biopython|Streamlit|Yarn|Webpack|
-|-|-|-|-|-|-|
-|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVa3Oi4m4gM8IrnBU-Ct0PwsXgCRe6cfLMhiLytNWjiL6B918z7OHnGrN3nshGU18WV3s&usqp=CAU" title="Kafka" width="75" height="75"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" title="Raylib" width="75" height="75"/>|<img src="https://biopython.org/assets/images/biopython_logo_white.png" title="Biopython" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" title="Streamlit" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" title="Yarn" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" title="Webpack" width="75" height="75"/>|
+|Kafka|Raylib|Biopython|Streamlit|Yarn|Webpack|Stripe|
+|-|-|-|-|-|-|-|
+|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVa3Oi4m4gM8IrnBU-Ct0PwsXgCRe6cfLMhiLytNWjiL6B918z7OHnGrN3nshGU18WV3s&usqp=CAU" title="Kafka" width="75" height="75"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" title="Raylib" width="75" height="75"/>|<img src="https://biopython.org/assets/images/biopython_logo_white.png" title="Biopython" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" title="Streamlit" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" title="Yarn" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" title="Webpack" width="75" height="75"/>|<img src="https://cdn.iconscout.com/icon/free/png-512/free-stripe-2-498440.png?f=webp&w=75" title="Stripe" width="75" height="75"/>|
 
 ### Some Links
 - [Alura](https://cursos.alura.com.br/user/thauroo)
