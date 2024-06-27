@@ -9,9 +9,9 @@
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" title="GCP" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="75" height="75"/>|<img src="https://raw.githubusercontent.com/PrefectHQ/prefect/main/ui/src/assets/logos/prefect-logo-mark-gradient.svg" title="Prefect" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="Github Actions" width="75" height="75"/>|
 
 ### Backend
-|Node|Spring|FastApi|Express|
-|-|-|-|-|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" title="FastApi" width="75" height="75"/>|<img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" title="Express" width="75" height="75"/>|
+|Node|Spring|FastApi|Express|Hono|
+|-|-|-|-|-|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" title="FastApi" width="75" height="75"/>|<img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" title="Express" width="75" height="75"/>|<img src="https://seeklogo.com/images/H/hono-logo-85A5D1206D-seeklogo.com.png" title="Hono" width="75" height="75"/>|
 
 ### Databases
 |Firebase|MongoDB|PostgreSQL|MySQL|
