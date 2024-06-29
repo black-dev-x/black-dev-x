@@ -52,4 +52,4 @@
 - [Pluralsight](https://app.pluralsight.com/profile/black-devx)
 - [Codewars](https://www.codewars.com/users/Devxgen)
 - [Udemy](https://www.udemy.com/user/thiago-rodrigues-52/)
-- [LinkedIn](https://www.linkedin.com/in/thiago-dx/)
+- [LinkedIn](https://www.linkedin.com/in/thiago-dx/) 
