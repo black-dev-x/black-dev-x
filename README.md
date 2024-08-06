@@ -1,5 +1,5 @@
 ### Languages
-|Java|Javascript|TypeScript|Python|C++|Processing|GoLang|               
+|Java|Javascript|TypeScript|Python|C++|Processing|GoLang|                
 |-|-|-|-|-|-|-|
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="75" height="75"/>|<img   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="Javascript" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original-wordmark.svg" title="Processing" width="75" height="75"/>|<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="GoLang" width="75" height="75"/>|
 
