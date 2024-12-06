@@ -50,6 +50,8 @@ g("Node", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/node
 g("Spring", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg")
 g("FastApi", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg")
 g("Express", "https://icon.icepanel.io/Technology/png-shadow-512/Express.png")
+g("Nest", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg")
+g("Prisma", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg")
 g("Hono", "https://seeklogo.com/images/H/hono-logo-85A5D1206D-seeklogo.com.png")
 makeTable()
 
