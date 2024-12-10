@@ -105,7 +105,7 @@ makeTable()
 
 
 h3("Others")
-g("Kafka", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVa3Oi4m4gM8IrnBU-Ct0PwsXgCRe6cfLMhiLytNWjiL6B918z7OHnGrN3nshGU18WV3s&usqp=CAU")
+g("Kafka", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg")
 g("Raylib", "https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png")
 g("Biopython", "https://biopython.org/assets/images/biopython_logo_white.png")
 g("Streamlit", "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg")

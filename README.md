@@ -1,7 +1,7 @@
 ### Languages
-|Java|Javascript|TypeScript|Python|C++|Processing|GoLang|                
+|Java|Javascript|TypeScript|Python|C++|Processing|GoLang|
 |-|-|-|-|-|-|-|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="75" height="75"/>|<img   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="Javascript" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original-wordmark.svg" title="Processing" width="75" height="75"/>|<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="GoLang" width="75" height="75"/>|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="Javascript" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original-wordmark.svg" title="Processing" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="GoLang" width="75" height="75"/>|
 
 ### DevOps
 |AWS|GCP|Docker|Prefect|:octocat: Actions|
@@ -45,11 +45,11 @@
 ### Others
 |Kafka|Raylib|Biopython|Streamlit|Yarn|Webpack|Stripe|
 |-|-|-|-|-|-|-|
-|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVa3Oi4m4gM8IrnBU-Ct0PwsXgCRe6cfLMhiLytNWjiL6B918z7OHnGrN3nshGU18WV3s&usqp=CAU" title="Kafka" width="75" height="75"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" title="Raylib" width="75" height="75"/>|<img src="https://biopython.org/assets/images/biopython_logo_white.png" title="Biopython" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" title="Streamlit" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" title="Yarn" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" title="Webpack" width="75" height="75"/>|<img src="https://cdn.iconscout.com/icon/free/png-512/free-stripe-2-498440.png?f=webp&w=75" title="Stripe" width="75" height="75"/>|
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" title="Kafka" width="75" height="75"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" title="Raylib" width="75" height="75"/>|<img src="https://biopython.org/assets/images/biopython_logo_white.png" title="Biopython" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" title="Streamlit" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" title="Yarn" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" title="Webpack" width="75" height="75"/>|<img src="https://cdn.iconscout.com/icon/free/png-512/free-stripe-2-498440.png?f=webp&w=75" title="Stripe" width="75" height="75"/>|
 
 ### Some Links
 - [Alura](https://cursos.alura.com.br/user/thauroo)
 - [Pluralsight](https://app.pluralsight.com/profile/black-devx)
 - [Codewars](https://www.codewars.com/users/Devxgen)
 - [Udemy](https://www.udemy.com/user/thiago-rodrigues-52/)
-- [LinkedIn](https://www.linkedin.com/in/thiago-dx/) 
+- [LinkedIn](https://www.linkedin.com/in/thiago-dx/)
